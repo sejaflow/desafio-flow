@@ -1,4 +1,19 @@
 # Desafio Seja Flow
+## Introdução
+O desafio da Flow é composto de 3 níveis de classificação: 
+1. **Nível 0**: destinado a saber se você sabe o básico de HTML + CSS + JS.  
+2. **Nível 1**: destinado a saber se você sabe o básico de banco de dados, back-end e front-end.
+3. **Nível 3**: destinado a saber se você sabe o básico de desenvolvimento web (Back-end e Front-End).
+  
+Cada um dos níveis é classificatorio e não eliminatório. Segue a pontuação:
+
+1. **Nível 0**: 10 Midi-chlorians!.  
+2. **Nível 1**: 100 Midi-Clorians!.
+3. **Nível 3**: 1000 Midi-clorians!.
+
+Para cada nível há critérios para conseguir a pontuação. Caso você não saiba o que é um Midi-chorians, acesse o [link](http://sociedadejedi.com.br/2015/12/06/afinal-o-que-sao-as-midi-chlorians/). 
+
+## Domínio do Problema
 
 O desafio é desenvolver um programa que permita realizar as seguintes buscas: 
 1. Listar os **órgãos, códigos e editais dos concursos públicos** que encaixam no perfil do candidato tomando como base o **CPF** do candidato ; 
@@ -28,10 +43,15 @@ Para enviar o resultado, basta realiazar um **Fork** deste repositório e **abra
 
 Por fim, o candidato deve atualizar o Readme.md com as seguintes informações: 
 1. Documentação da solução;
-2. Lista dos diferenciais implementados
-3. Link do projeto no [WakaTime](https://wakatime.com/). Veja um [exemplo](https://wakatime.com/@b142ebdf-4d65-4b92-bc14-567db7b72151/projects/zrxbwdmhtu?start=2018-01-25&end=2018-01-31).  
+2. Lista dos diferenciais implementados  
 
 ## Avaliação
+
+## Nível 1
+
+## Nível 2
+
+## Nível 3
 
 O programa será avaliado levando em conta os seguintes critérios:
 
