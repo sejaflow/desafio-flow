@@ -1,14 +1,14 @@
 # Desafio Seja Flow
 ## Introdução
 O desafio da Flow é composto de 3 níveis de classificação: 
-1. **Nível 0**: destinado a saber se você sabe o básico de HTML + CSS + JS.  
-2. **Nível 1**: destinado a saber se você sabe o básico de banco de dados, back-end e front-end.
+1. **Nível 1**: destinado a saber se você sabe o básico de HTML + CSS + JS.  
+2. **Nível 2**: destinado a saber se você sabe o básico de banco de dados, back-end e front-end.
 3. **Nível 3**: destinado a saber se você sabe o básico de desenvolvimento web (Back-end e Front-End).
   
 Cada um dos níveis é classificatorio e não eliminatório. Segue a pontuação:
 
-1. **Nível 0**: 10 Midi-chlorians!.  
-2. **Nível 1**: 100 Midi-Clorians!.
+1. **Nível 1**: 10 Midi-chlorians!.  
+2. **Nível 2**: 100 Midi-Clorians!.
 3. **Nível 3**: 1000 Midi-clorians!.
 
 Para cada nível há critérios para conseguir a pontuação. Caso você não saiba o que é um Midi-chorian, acesse o [link](http://sociedadejedi.com.br/2015/12/06/afinal-o-que-sao-as-midi-chlorians/). 
@@ -48,28 +48,41 @@ Por fim, o candidato deve atualizar o Readme.md com as seguintes informações:
 ## Avaliação
 
 ## Nível 1
-Para o nível 1 o usuário deve construir uma página web utilizando HTML, CSS e JS. A página web deve consumir o dados do nosso serviço web disponibilizado nesse link.
+O jedi deve construir uma página web utilizando HTML, CSS e JS que implemente os itens do desafio. A págia web deve consumir as informações do serviço web disponibilizado em link.  
 
 Caso queira rodar localmente, você baixar o código fonte do nosso [git](https://github.com/sejaflow/desafio-webservice).
 
-# Conteúdos que podem lhe ajudar:
+### Conteúdos que podem lhe ajudar:
 1. [W3School HTML](https://www.w3schools.com/html/)
 2. [W3School CSS](https://www.w3schools.com/css/default.asp)
 3. [W3School JS](https://www.w3schools.com/js/default.asp)
 
+## Nível 2
+O jedi deve construir uma aplicação web em qualquer tecnologia (e.g., PHP, Python, Java) que resolve o desafio com o banco de dados. Para isso, o usuário pode utilzar o banco de dados disponibilizado.   
 
+### Conteúdos que podem lhe ajudar:
+1. [W3School HTML](https://www.w3schools.com/html/)
+2. [W3School CSS](https://www.w3schools.com/css/default.asp)
+3. [W3School JS](https://www.w3schools.com/js/default.asp)
+4. [W3School PHP](https://www.w3schools.com/php/default.asp)
+5. [W3School SQL](https://www.w3schools.com/sql/default.asp)
 
 ## Nível 3
 
+O jedi deve construir uma aplicação web com Fron-End e Back-End separados em qualquer tecnologia (e.g., PHP, Python, Java) que resolve. Não pode utilizar o banco de dados disponibilizado.
+
+
+### Conteúdos que podem lhe ajudar:
+Todo os anteriores. =)
+
+# Avaliação do código
 O programa será avaliado levando em conta os seguintes critérios:
 
-| Critério  | Valor | 
-|---|---|
-| Legibilidade do Código |  10  |
-| Documentação do código|  10  |
-| Documentação da solução|  10  |
-| Tratamento de Erros| 10| 
-| Total| 40|
+| Nível  | Legibilidade do Código | Documentação do código| Documentação da solução|Tratamento de Erros|
+|---|---|---|---|---|
+| Nível 1 |  2.5  |2.5  |2.5  |2.5  |
+| Nível 2|  25  |25  |25  |25  |
+| Nível 3|250  |250  |250  |250  |
 
 A pontuação do candidato será a soma dos valores obtidos nos critérios acima.
 
