@@ -73,7 +73,7 @@ O jedi deve construir uma aplicação web com Fron-End e Back-End separados em q
 
 
 ### Conteúdos que podem lhe ajudar:
-Todo os anteriores. =)
+**Todos os anteriores.** =)
 
 # Avaliação do código
 O programa será avaliado levando em conta os seguintes critérios:
