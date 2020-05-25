@@ -11,9 +11,9 @@ Cada um dos níveis é classificatorio e não eliminatório. Segue a pontuação
 2. **Nível 1**: 100 Midi-Clorians!.
 3. **Nível 3**: 1000 Midi-clorians!.
 
-Para cada nível há critérios para conseguir a pontuação. Caso você não saiba o que é um Midi-chorians, acesse o [link](http://sociedadejedi.com.br/2015/12/06/afinal-o-que-sao-as-midi-chlorians/). 
+Para cada nível há critérios para conseguir a pontuação. Caso você não saiba o que é um Midi-chorian, acesse o [link](http://sociedadejedi.com.br/2015/12/06/afinal-o-que-sao-as-midi-chlorians/). 
 
-## Domínio do Problema
+## Escopo do problema
 
 O desafio é desenvolver um programa que permita realizar as seguintes buscas: 
 1. Listar os **órgãos, códigos e editais dos concursos públicos** que encaixam no perfil do candidato tomando como base o **CPF** do candidato ; 
@@ -42,14 +42,22 @@ Para enviar o resultado, basta realiazar um **Fork** deste repositório e **abra
 **É importante comentar que deve ser enviado apenas o código fonte. Não aceitaremos códigos compilados**.
 
 Por fim, o candidato deve atualizar o Readme.md com as seguintes informações: 
-1. Documentação da solução;
+1. Documentação da solução: use a criatividade para documentar;
 2. Lista dos diferenciais implementados  
 
 ## Avaliação
 
 ## Nível 1
+Para o nível 1 o usuário deve construir uma página web utilizando HTML, CSS e JS. A página web deve consumir o dados do nosso serviço web disponibilizado nesse link.
 
-## Nível 2
+Caso queira rodar localmente, você baixar o código fonte do nosso [git](https://github.com/sejaflow/desafio-webservice).
+
+# Conteúdos que podem lhe ajudar:
+1. [W3School HTML](https://www.w3schools.com/html/)
+2. [W3School CSS](https://www.w3schools.com/css/default.asp)
+3. [W3School JS](https://www.w3schools.com/js/default.asp)
+
+
 
 ## Nível 3
 
