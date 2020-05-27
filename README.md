@@ -48,7 +48,7 @@ Por fim, o candidato deve atualizar o Readme.md com as seguintes informações:
 ## Avaliação
 
 ## Nível 1
-O jedi deve construir uma página web utilizando HTML, CSS e JS que implemente os itens do desafio. A págia web deve consumir as informações do serviço web disponibilizado em link.  
+O jedi deve construir uma página web utilizando HTML, CSS e JS que implemente os itens do desafio. A págia web deve consumir as informações do serviço web disponibilizado em [link](http://sejaflow.pythonanywhere.com/).  
 
 Caso queira rodar localmente, você baixar o código fonte do nosso [git](https://github.com/sejaflow/desafio-webservice).
 
