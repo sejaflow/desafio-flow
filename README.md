@@ -66,6 +66,8 @@ O jedi deve construir uma aplicação web em qualquer tecnologia (e.g., PHP, Pyt
 3. [W3School JS](https://www.w3schools.com/js/default.asp)
 4. [W3School PHP](https://www.w3schools.com/php/default.asp)
 5. [W3School SQL](https://www.w3schools.com/sql/default.asp)
+6. [Django Girls](https://tutorial.djangogirls.org/pt/)
+7. [Django Mozila](https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django/skeleton_website)
 
 ## Nível 3
 
